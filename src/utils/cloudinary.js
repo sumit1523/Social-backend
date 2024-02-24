@@ -23,3 +23,5 @@ const uploadOnCloudinary = async (localilePath) => {
         return null;
     }
 };
+
+export { uploadOnCloudinary };
